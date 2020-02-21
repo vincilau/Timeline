@@ -1,7 +1,4 @@
-[时间线原文](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)  
-[说明](https://github.com/Pratitya/wuhan2020-timeline)
-
-疫情与舆情：武汉新冠肺炎时间线TIMELINE
+疫情与舆情：武汉新冠肺炎时间线TIMELINE [原文](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)  [说明](https://github.com/Pratitya/wuhan2020-timeline)
 ==============
 版权声明：本时间线自1月26日首发，编写修改的时间与内容均有记录。引用转载本项目内容请说明。
 ## 2019年12月1日
@@ -888,7 +885,8 @@
 * 21时50分，武汉市江夏区第一人民医院/协和江南医院呼吸与危重症医学科医生彭银华，不幸感染新冠肺炎，经抢救无效，在武汉市金银潭医院去世。据长江日报1月28日消息，彭银华和妻子原本定于正月初八办婚礼，但因疫情来袭，他延迟婚期上一线。<br>
 
 【中国】<br>
-* 豆瓣日记功能恢复。
+1. 多地监狱爆发疫情。
+- 见中国新闻网：[三省5监狱现聚集性新冠肺炎疫情](https://github.com/vincilau/Timeline/issues/1#issue-568987674)
 
 【国际】<br>
 * [《新英格兰医学杂志》](https://www.nejm.org/doi/full/10.1056/NEJMc2001737)（NEJM）刊发了来自广东省疾控中心、珠海市疾控中心、中山大学第五附属医院、香港大学的研究团队的通讯文章，显示新冠肺炎患者在发病早期其上呼吸道的病毒载量更高，随着时间的推移病毒载量开始降低。<br>
