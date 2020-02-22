@@ -54,7 +54,7 @@
 
 ## 2019年12月24日
 * 1名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-* 患者郑先生转入同济医院住院，经治疗后退烧。见1月2日[界面新闻《武汉肺炎患者讲述：家属未被体检 本人已退烧一星期》](https://news.ifeng.com/c/7suXue3Uq6f)【按，“小山狗”公众号中所检测的病患样本正采集自24日。】 
+* 患者郑先生转入同济医院住院，经治疗后退烧。见1月2日[界面新闻《武汉肺炎患者讲述：家属未被体检 本人已退烧一星期》](https://news.ifeng.com/c/7suXue3Uq6f)【按，“小山狗”公众号中所检测的病患样本正采集自24日。】
 
 ## 2019年12月25日
 * 3名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
@@ -908,5 +908,5 @@
 
 ## 2020年2月22日
 【中国】
-
+1. 俄罗斯全面封闭对中边境。
 【国际】
