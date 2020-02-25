@@ -904,11 +904,13 @@
 
 
 ## 2020年2月23日
+- [Reuters：](https://www.reuters.com/article/us-china-health-italy/italy-coronavirus-cases-rise-to-more-than-100-lombardy-head-idUSKCN20H0A3)**意大利**伦巴第大区主席丰塔纳(Attilo Fontana)周日（23日）表示，意大利伦巴第大区新冠肺炎确诊病例已上升至89例。报道称，丰塔纳在接受天空电视台采访时说，这使该国的确诊病例总数超过100例。
 
 ## 2020年2月24日
 - 11时许，武汉市新冠肺炎疫情防控指挥部发布的[《关于加强进出武汉市车辆和人员管理的通告》（第17号）](https://github.com/Pratitya/wuhan2020-timeline/issues/123#issue-569688999)，滞留在武汉的外地人员及因疫情保障原因必须出城的人员可出城。出城人员必须不属于被隔离人员，且没有发热、干咳等症状。出城人员要坚持错峰出城，并按要求向武汉市防疫指挥部审批报备。出城人员到达目的地后要进行14天监控监测。      
 15时，武汉市新冠肺炎疫情防控指挥部发布[武汉市新冠肺炎疫情防控指挥部通告（第18号）](http://www.hubei.gov.cn/zhuanti/2020/gzxxgzbd/zxtb/202002/t20200224_2146540.shtml)，指出上述17号通告系市指挥部下设的交通防控组未经指挥部研究和主要领导同志同意发布的，现宣布该通告无效。已对相关人员进行了严肃的批评处理。
-
+- [云南卫健委](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158247246967334043), [广东卫健委](http://wsjkw.gd.gov.cn/zwyw_gzdt/content/post_2905980.html), [广西卫健委](http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovzcwj/2020/0224/69242.html),[江苏政府](https://weibo.com/2259661342/IvJIAhfmk?refer_flag=1001030103_&type=comment#_rnd1582559753655)调降防疫等级.
+- [美联社](https://apnews.com/32540d09ec101aac057660ef1b0aa970)援引伊朗半官方劳工新闻通讯社（ILNA）周一的消息称，本月以来**伊朗**什叶派圣城库姆市已有50人死于新冠病毒感染的肺炎。这一数字要比此前伊朗官方公布的数据高出不少。据伊朗国家电视台报道，截至目前，伊朗累计确诊47例病例，死亡达12例。
 
 ## 2020年2月25日
 []
