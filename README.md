@@ -1,69 +1,28 @@
 疫情与舆情：武汉新冠肺炎时间线TIMELINE [原文](https://github.com/Pratitya/wuhan2020-timeline/blob/master/%E6%97%B6%E9%97%B4%E7%BA%BFTIMELINE.md)  [说明](https://github.com/Pratitya/wuhan2020-timeline)
 ==============
-版权声明：本时间线自1月26日首发，编写修改的时间与内容均有记录。引用转载本项目内容请说明。
+
 ## 2019年12月1日
-* 出现第一位武汉市民有不明原因肺炎症状（事后确诊，当时未知是不明原因肺炎，事后知与华南海鲜城无关。当时尚无医生发现和报告）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-【按，注意出现病症、入院、确诊“不明原因（病毒性）肺炎”、确诊“新冠肺炎”、确定有限人传人、确定持续人传人的区别。本时间线注重信息（概念提出）时间的记录。】
+* 出现第一位武汉市民有**不明原因肺炎**症状（事后确诊，当时未知是不明原因肺炎，事后知与华南海鲜城无关。当时尚无医生发现和报告）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)
 
 ## 2019年12月8日
 * “第一例”武汉不明肺炎病人发病。见1月11日[《专家解读不明原因的病毒性肺炎最新通报》](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011109036)。【按，事后确诊，当时未知是不明原因肺炎。武汉市卫健委溯源结论与1月5日通告、1月24日论文的溯源结论都有出入。】
 
-## 2019年12月9日
 ## 2019年12月10日
 * 3名武汉市民出现病症入院（事后确诊，事后得知1例与华南海鲜城有关，且这名患者和第一例患者之间，找不到任何流行病学上的联系。这意味着至少不应将华南海鲜市场视为唯一的病毒来源）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
 
-## 2019年12月11日
 ## 2019年12月12日
-* “第一例”武汉不明肺炎病人发病。见1月5日武汉市卫健委发布[第三份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020010509020)。1月2日[界面新闻《武汉肺炎患者讲述：家属未被体检 本人已退烧一星期》](https://news.ifeng.com/c/7suXue3Uq6f)载同日郑先生开始发烧，去了武汉市一医院检查，诊断为肺部感染。【按，事后确诊，当时未知是不明原因肺炎，且武汉市卫健委当时的溯源结论或指向本患者。与1月24日论文的溯源结论有出入，或可知对于“第一例”病人的流行病学考察的观点在不断修正。】<br>
-* 同日，武汉市优抚医院（距离华南海鲜市场200米）门诊医生刘永（化名）接诊了一位来自华南海鲜市场的商户黄某（69岁），该患者干咳、不发烧、不流涕。该患者透露隔壁七八位商户员工有高烧不退的症状。见2月11日[八点健闻 | 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。<br>
-
-## 2019年12月13日
-* 武汉市优抚医院门诊医生刘永（化名）提醒同事，只要是华南海鲜市场来看病的人，每个人都免费提供一个普通外科口罩。同时他建议放射科和门诊科所有医生佩戴口罩。见2月11日[八点健闻 | 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。<br>
-
-## 2019年12月14日
-## 2019年12月15日
-* 2名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-
-## 2019年12月16日
-* 武汉市优抚医院门诊医生刘永（化名）的同事接诊一位总是去华南海鲜市场进货的湖北荆州市民（70岁）已发烧数天，症状干呕。后该患者转院武汉红十字医院诊断为肺部感染（时间不详），12月24日在同济医院确诊新冠肺炎。1月23日封城前治愈。见2月11日[八点健闻 | 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。该患者发病时间近于12月12日。<br>
-
-## 2019年12月17日
-* 1名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
+- 武汉市优抚医院（距离华南海鲜市场200米）门诊医生刘永（化名）接诊了一位来自华南海鲜市场的商户黄某（69岁），该患者干咳、不发烧、不流涕。该患者透露隔壁七八位商户员工有高烧不退的症状。见2月11日[八点健闻 | 失去的机会，新冠疫情早期被忽视的小医院病例](https://github.com/Pratitya/wuhan2020-timeline/issues/91)。
 
 ## 2019年12月18日
-* 1名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>
-* * 一名65岁的男性个体经营者（华南海鲜市场送货员）来到武汉市中心医院南京路院区看急诊。在五天前，他出现发热症状，体温高达39.1℃，发热前有寒战，但无鼻塞、流涕、呼吸困难、咳嗽等症状。此前在12月16日，该男子先是到医院门诊就诊，经过阿莫西林克拉维酸钾、奥司他韦及乐松片等三天对症治疗无好转后被收入急诊病房。急诊科医生给该男子尝试了碳青霉烯类高级的广谱类抗菌素，依然无任何好转迹象，而其肺部感染表现为“双肺多发散在斑片状模糊影”。12月22日，该男子转入该院呼吸科救治，12月25日转入同济医院，再之后，转入专门收治传染病人的金银潭医院。见2月17日[中国新闻周刊 | 亲历者讲述：武汉市中心医院医护人员被感染始末](https://github.com/Pratitya/wuhan2020-timeline/issues/106#issue-566625534)采访对象艾芬的回忆。<br>
-
-## 2019年12月19日
-* 武汉市市委常委会召开会议传达学习中央经济工作会议精神，市委书记马国强主持会议。见12月20日[《长江日报》报道](http://www.wuhan.gov.cn/2019_web/whyw/201912/t20191220_301820.html)<br>
-* 湖北省委书记蒋超良、省长王晓东与来汉出席第四届楚商大会的马云、陈东升座谈。见12月20日[《湖北日报》报道](https://github.com/Pratitya/wuhan2020-timeline/issues/4#issue-556808880)<br>
-* 1名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
+- 一名65岁的男性个体经营者（华南海鲜市场送货员）来到**武汉市中心医院**南京路院区看急诊。在五天前，他出现发热症状，体温高达39.1℃，发热前有寒战，但无鼻塞、流涕、呼吸困难、咳嗽等症状。此前在12月16日，该男子先是到医院门诊就诊，经过阿莫西林克拉维酸钾、奥司他韦及乐松片等三天对症治疗无好转后被收入急诊病房。急诊科医生给该男子尝试了碳青霉烯类高级的广谱类抗菌素，依然无任何好转迹象，而其肺部感染表现为“双肺多发散在斑片状模糊影”。12月22日，该男子转入该院呼吸科救治，12月25日转入同济医院，再之后，转入专门收治传染病人的金银潭医院，最终于2020年1月30日去世。**该名患者为目前所知最早被检测出新型冠状病毒的病例**。见2月17日[中国新闻周刊 | 亲历者讲述：武汉市中心医院医护人员被感染始末](https://github.com/Pratitya/wuhan2020-timeline/issues/106#issue-566625534)   
+- 随后多个病例将大家目光聚焦到华南海鲜市场, 从而忽略了无华南海鲜市场暴露史的病例.
 
 ## 2019年12月20日
-* 5名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。其中武汉市民曾某某开始发热，咳嗽、无力，于12月27日入院治疗，在1月9日死亡，为疫情发现后第一例死亡病例。他的妻子（无华南海鲜市场接触史）在其发病5天后亦开始发病，是最早通报的“人传染人”的病例（参看1月15日条目）。见国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第三份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)及[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>。
-* [稳健医疗用品股份有限公司](https://github.com/Pratitya/wuhan2020-timeline/issues/6#issue-556820423)（以下简称“稳健医疗”）决策层决定取消在湖北召开年终高管会议，改为阳逻会场和深圳会场视频会议。<br>
-
-## 2019年12月21日
-* 4名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>
-
-## 2019年12月22日
-* 3名武汉市民出现病症（事后确诊，事后知1名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>
-
-## 2019年12月23日
-* 8名武汉市民出现病症（事后确诊，事后知5名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。此时出现病症者已达29例（事后论文统计）。<br>
-
-## 2019年12月24日
-* 1名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-* 患者郑先生转入同济医院住院，经治疗后退烧。见1月2日[界面新闻《武汉肺炎患者讲述：家属未被体检 本人已退烧一星期》](https://news.ifeng.com/c/7suXue3Uq6f)【按，“小山狗”公众号中所检测的病患样本正采集自24日。】
-
-## 2019年12月25日
-* 3名武汉市民出现病症（事后确诊，事后知2名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)<br>
-* 武汉市第五医院消化内科吕小红主任听说武汉市两家医院有医护人员疑似感染不明原因的病毒性肺炎（当时未知是新冠肺炎），并被隔离，其中还有呼吸科的医护人员。见[冰点周刊 | 钟南山发话前，武汉这位医生向附近学校发出疫情警报](https://github.com/Pratitya/wuhan2020-timeline/issues/39#issue-558504017)<br>
+* 有华南市场接触史的武汉市民曾某某开始发热，咳嗽、无力，于12月27日入院治疗，在1月9日死亡，为疫情发现后**第一例死亡病例**。他的妻子（无华南海鲜市场接触史）在其发病5天后亦开始发病，是最早通报的“人传染人”的病例（参看1月15日条目）。见国家卫健委发布新型冠状病毒感染的肺炎疫情情况[第三份公告](http://www.nhc.gov.cn/xcs/yqtb/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)及[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。
+- 同日，一名在华南海鲜市场工作的41岁男性开始出现发热症状，后于12月26日住入武汉市中心医院治疗，同时医院对病人进行了支气管肺泡灌洗液取样。这份样本后由上海市公共卫生临床中心获得，并由张永振团队于2020年1月5日从样本中检测出**类SARS冠状病毒**，通过高通量测序获得了该病毒的**全基因组序列**，于1月11日向全世界公布了获得的新型冠状病毒全基因组序列.
 
 ## 2019年12月26日
-* 2名武汉市民出现病症（事后确诊，事后知1名与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。据2月2日[《长江日报：最早上报疫情的她，怎样发现这种不一样的肺炎》](https://mp.weixin.qq.com/s/E_FMh8T31ZnTFhi-5wZCbw)当日有老两口就诊于湖北省中西医结合医院，接诊医生是呼吸与重症医学科主任张继先，“当时两人是自己走到医院来的，拍出来的胸部CT片，却呈现出与其他病毒性肺炎完全不同的改变”。张继先“让老两口叫来他们的儿子做检查，儿子没有任何症状，但CT一照，肺上也有那种表现了。”事后张继先接受《长江日报》采访表示“是‘非典’时期锻炼出来的思维”。同日，“还来了一位华南海鲜市场的商户，一样的发烧、咳嗽，一样的肺部表现。”（此处与前面论文描述同）<br>
-* 同日，武汉某医院样本测出病原体，与蝙蝠冠状病毒相似度为87%，与SARS相似度为81%。见[《微信公众号小山狗：记录一下首次发现新型冠状病毒的经历》](https://github.com/Pratitya/wuhan2020-timeline/issues/36#issue-558471531)。
-* 上海市公共卫生临床中心科研项目（张永振团队）常规搜集到武汉市中心医院与疾控中心“不明原因发热”患者标本一份。见2月3日[财新网 | 封面报道之一现场篇：武汉围城](https://github.com/Pratitya/wuhan2020-timeline/issues/56#issue-558835473)<br>
+* 广州微远基因科技有限公司某员工在武汉市中心医院所送检的样本中检测出未知病毒，与蝙蝠冠状病毒相似度为87%，与SARS相似度为81%。见[《微信公众号小山狗：记录一下首次发现新型冠状病毒的经历》](https://github.com/Pratitya/wuhan2020-timeline/issues/36#issue-558471531)。
 
 ## 2019年12月27日
 * 2名武汉市民出现病症（事后确诊，事后知与华南海鲜城有关）。见[Chaolin Huang, et al. Clinical features of patients infected with 2019 novel. Lancet, Jan. 24, 2020（《中国武汉地区2019年新型冠状病毒感染者的临床特征》）](https://github.com/Pratitya/wuhan2020-timeline/issues/26#issue-557972097)。<br>
@@ -118,19 +77,8 @@
 * [Dailymail（每日邮报）](https://www.dailymail.co.uk/health/article-7839625/Dozens-struck-unidentified-pneumonia-China.html)：27人在武汉被神秘未确定种类肺炎感染。<br>
 
 ## 2020年1月1日
-【武汉-湖北】<br>
-* 凌晨，武汉市中心医院后湖院区急诊科又收到了一位由武汉市红十字会医院转入的65岁男子。该男子在华南海鲜市场附近开诊所，最近收治了很多发热病人，之后自己也有了症状，病情严重。急诊科医生艾芬分析认为，这位诊所老板的病很可能就是他诊所的病人传给他的。她再次向医院公共卫生科和医务处报告了该诊所老板收治了多例病人的相关消息，希望能够引起重视。她担心，“一旦急诊科医生或者护士被感染得病了，就很麻烦”。并要求自己科室的医护人员先戴起了N95口罩。见2月17日[中国新闻周刊 | 亲历者讲述：武汉市中心医院医护人员被感染始末](https://github.com/Pratitya/wuhan2020-timeline/issues/106#issue-566625534)。<br>
 * 武汉市公安局官方微博[“平安武汉”](https://github.com/Pratitya/wuhan2020-timeline/issues/9#issue-556840315)依法查处8名武汉市民造谣者，其中包括武汉市中心医院眼科医生李文亮、武汉协和医院肿瘤科谢琳卡医生、神经内科刘文医生等。事后网友称他们是武汉肺炎的“吹哨人”。<br>
-* 关闭整顿华南海鲜城市场。<br>
-* 1月初（具体时间不详），各家医院先后出现了疑似“病毒肺”病人，有一些小的医院，不接收发热病人，把他们推到其他医院。这种情况被其他几家医院联名告到武汉卫健委。武汉卫健委通知，各家医院接诊的病人必须自己治，把转诊的口子堵住了。然而大多数医院都不是传染病医院，并不具备隔离条件。见[南方周末：独家深访：从发现到封城，武汉一线医护复盘疫情为何爆发](https://github.com/Pratitya/wuhan2020-timeline/issues/51#issue-558681462) <br>
-* 新京报：[武汉华南海鲜市场已休市，不明原因肺炎已有成熟监测体系](http://www.bjnews.com.cn/inside/2020/01/01/668935.html)<br>
-
-【中国】<br>
-* [南方周末（海外版）](https://www.scmp.com/news/china/politics/article/3044207/china-shuts-seafood-market-linked-mystery-viral-pneumonia)：世卫组织（WHO）与北京接触针对武汉神秘肺炎疫情，27人确诊。<br>
-
-【国际】<br>
-* 世界卫生组织要求中国当局提供更多信息、评估风险。见世界卫生组织1月5日的[疾病爆发新闻](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/)。<br>
-* [新加坡联合早报](http://www.zaobao.com/news/china/story20200101-1017466?utm_source=ZB_iPhone&utm_medium=share)：武汉陆续接治不明原因肺炎病人，网络流传疑SARS再度爆发。卫健委强调，到目前为止，调查未出现明显人传人现象，也未发现医务人员受感染。<br>
+* 关闭华南海鲜城市场。<br>
 
 ## 2020年1月2日
 【武汉-湖北】<br>
@@ -232,17 +180,11 @@
 * [新加坡联合早报](http://www.zaobao.com/special/report/politic/hkpol/story20200108-1019222?utm_source=ZB_iPhone&utm_medium=share)：港府规定未明呼吸传染病例须呈报 患者及有接触者可禁离港。<br>
 
 ## 2020年1月9日
-【武汉-湖北】<br>
-* 武汉病毒研究所表明该毒株资源已按标准完成国家病毒资源库入库，并进行了标准化保藏（保藏编号：IVCAS 6.7512），可依法依规提供给有关机构，将为当前2019新型冠状病毒的科学研究、疫苗开发、生物医药筛选等提供重要资源支撑。见中国科学院武汉病毒研究所[《武汉病毒所全力开展新型冠状病毒肺炎科研攻关》](http://www.whiov.ac.cn/xwdt_105286/zhxw/202001/t20200129_5494574.html)<br>
-* 王广发在武汉开始工作，“重点关注病人的救治问题，每天很忙，工作到凌晨三四点钟也是有的”。见2月2日[冰点周刊 | 卫健委专家组成员王广发出院了，回答了我们8个问题](https://mp.weixin.qq.com/s/DWcRVz10zps27VIrml_Khg)<br>
-* 疫情爆发后出现第一例死亡病例，其妻子为第一例通报的“人传染人”病例（见12月20日及1月15日条目）。由于死者妻子反对，死者并未进行尸体化验。见国家卫健委发[1月23日新型冠状病毒感染的肺炎疫情情况](http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)及东网电视1月15日报道[武汉患者无去市场亦染肺炎　防护中心：病毒或人传人](https://hk.on.cc/hk/bkn/cnt/news/20200115/bkn-20200115144306567-0115_00822_001_cn.html)。<br>。
+
+* 第一例死亡病例出现，其妻子为第一例通报的“人传染人”病例（见12月20日及1月15日条目）。由于死者妻子反对，死者并未进行尸体化验。见国家卫健委发[1月23日新型冠状病毒感染的肺炎疫情情况](http://www.nhc.gov.cn/yjb/s3578/202001/5d19a4f6d3154b9fae328918ed2e3c8a.shtml)及东网电视1月15日报道[武汉患者无去市场亦染肺炎　防护中心：病毒或人传人](https://hk.on.cc/hk/bkn/cnt/news/20200115/bkn-20200115144306567-0115_00822_001_cn.html)。<br>。
 
 【中国】<br>
-* 上午，[新华网](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)发布，对病原检测结果初步评估专家组组长、中国工程院院士徐建国的采访。徐建国表示，“实验室检出一种新型冠状病毒，获得该病毒的全基因组序列，经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒，电镜下呈现典型的冠状病毒形态”，“本次不明原因的病毒性肺炎的病原体初步判定为新型冠状病毒”，“下一步需结合病原学研究、流行病学调查和临床表现进行专家研判。”当天，[央视新闻](https://weibo.com/2656274875/IoE0ZyrWd?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580360125077)有公开报道。<br>
-
-【国际】<br>
-* 世界卫生组织[发推](https://twitter.com/WHO/status/1215320529059688449)，介绍冠状病毒、SARS、MERS及个人防护措施。此条推文配图为：冠状病毒。
-* [英国卫报](https://www.theguardian.com/science/2020/jan/09/china-pneumonia-outbreak-may-be-caused-by-sars-type-virus-who?CMP=Share_iOSApp_Other): 据世界卫生组织（WHO）宣布：造成新型中国肺炎的病毒可能来源于SARS的同种类型。<br>
+* 上午，[新华网](http://www.xinhuanet.com/2020-01/09/c_1125438971.htm)发布，对病原检测结果初步评估专家组组长、中国工程院院士徐建国的采访。徐建国表示，“实验室检出一种新型冠状病毒，获得该病毒的全基因组序列，经核酸检测方法共检出新型冠状病毒阳性结果15例，从1例阳性病人样本中分离出该病毒，电镜下呈现典型的冠状病毒形态”，“本次不明原因的病毒性肺炎的**病原体**初步判定为新型冠状病毒”，“下一步需结合病原学研究、流行病学调查和临床表现进行专家研判。”当天，[央视新闻](https://weibo.com/2656274875/IoE0ZyrWd?from=page_1002062656274875_profile&wvr=6&mod=weibotime&type=comment#_rnd1580360125077)有公开报道。<br>
 
 ## 2020年1月10日
 【武汉-湖北】<br>
@@ -307,11 +249,7 @@
 * [英国卫报](https://www.theguardian.com/world/2020/jan/14/case-of-mystery-coronavirus-found-outside-china-for-the-first-time-thailand?CMP=Share_iOSApp_Other):据泰国官方宣布，在中国境外发现的第一例武汉新型肺炎确诊病例被发现，这名女性在当地时间1月5日发病，并于1月8日被送往医院，该女性曾经有过直接接触与武汉的一所农贸市场，但该市场并没有被武汉官方确定为疾病的传染源。 <br>
 
 ## 2020年1月15日
-【武汉-湖北】<br>
-* 凌晨，武汉市卫健委发布[第八份公告](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509046)，表示截止14号24时，“无新增新型冠状病毒感染的肺炎病例，无治愈出院病例，无新增死亡病例报告”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211281.html)全文转载公告。<br>
 * 凌晨，武汉市卫健委发布[《新型冠状病毒感染的肺炎疫情知识问答》](http://wjw.wuhan.gov.cn/front/web/showDetail/2020011509040)，表示“现有的调查结果表明，尚未发现明确的人传人证据，不能排除有限人传人的可能，但持续人传人的风险较低”，同时表示“发现一起为家庭聚集性，夫妻两人发病，丈夫先发病，为华南海鲜批发市场从业人员，妻子否认有华南海鲜批发市场暴露史”，“目前未发现社区传播”。[中国疾控中心](http://www.chinacdc.cn/jkzt/crb/zl/szkb_11803/jszl_11809/202001/t20200119_211280.html)全文转载此知识问答。【按，大陆官方开始提出“有限人传人”“家庭聚集性病例”概念。】<br>
-* 武汉“百步亭”社区某居委会的工作人员江强（化名）跟居委会领导反映，最好取消万家宴，但没成功。见2月12日[澎湃新闻 | 武汉百步亭社工：曾和居委会领导反映取消万家宴，但没成功]。<br>
-* 武汉天河机场通知各航司对将发热病人进行临时隔离。<br>
 
 【中国】<br>
 * 香港大学“新发传染性疾病国家重点实验室”主任管轶接受大公报专访表示，冠状病毒最长潜伏期是十五天，自3日后内地无新增传染病例，可以判断此次疫情已经得到控制。即使人传人，也非常有限。<br>
@@ -904,7 +842,7 @@
 
 
 ## 2020年2月23日
-- [Reuters：](https://www.reuters.com/article/us-china-health-italy/italy-coronavirus-cases-rise-to-more-than-100-lombardy-head-idUSKCN20H0A3)**意大利**伦巴第大区主席丰塔纳(Attilo Fontana)周日（23日）表示，意大利伦巴第大区新冠肺炎确诊病例已上升至89例。报道称，丰塔纳在接受天空电视台采访时说，这使该国的确诊病例总数超过100例。
+- [Reuters：](https://www.reuters.com/article/us-china-health-italy/italy-coronavirus-cases-rise-to-more-than-100-lombardy-head-idUSKCN20H0A3)意大利伦巴第大区主席丰塔纳(Attilo Fontana)周日（23日）表示，意大利伦巴第大区新冠肺炎确诊病例已上升至89例。报道称，丰塔纳在接受天空电视台采访时说，这使该国的确诊病例总数超过100例。
 
 ## 2020年2月24日
 - 11时许，武汉市新冠肺炎疫情防控指挥部发布的[《关于加强进出武汉市车辆和人员管理的通告》（第17号）](https://github.com/Pratitya/wuhan2020-timeline/issues/123#issue-569688999)，滞留在武汉的外地人员及因疫情保障原因必须出城的人员可出城。出城人员必须不属于被隔离人员，且没有发热、干咳等症状。出城人员要坚持错峰出城，并按要求向武汉市防疫指挥部审批报备。出城人员到达目的地后要进行14天监控监测。      
